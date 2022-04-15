@@ -1,0 +1,37 @@
+ Script started on Mon 22 Mar 2021 10:44:58 PM PDT
+  ^[]0;matthewgloriani@bec307dl10:~/comp230/projects/proj3^G^[[?1034h^[[38;5;39mmatthewgloriani^[(B^[[m^[[38;5;15m@^[(B^[[m^[[38;5;136mbec307dl    10^[(B^[[m^[[38;5;15m ^[(B^[[m^[[38;5;2mproj3^[(B^[[m^[[38;5;15m>^[(B^[[m ls^M
+  mss.class  mss.java  numbers2.txt  numbers.txt  proj3_Sample_Runs^M
+  ^[]0;matthewgloriani@bec307dl10:~/comp230/projects/proj3^G^[[38;5;39mmatthewgloriani^[(B^[[m^[[38;5;15m@^[(B^[[m^[[38;5;136mbec307dl10^[(B^[[    m^[[38;5;15m ^[(B^[[m^[[38;5;2mproj3^[(B^[[m^[[38;5;15m>^[(B^[[m java mss^M
+  Please enter the name of an ASCII file that contains a sorted list of integer numbers all in one line, separated by a comma: ^M
+  none^H ^Hexistent file^H ^H^H ^H^H ^H^H ^H^H ^H_file^M
+  Please enter an existing file name.^M
+  Please enter the name of an ASCII file that contains a sorted list of integer numbers all in one line, separated by a comma: ^M
+  numbers.txt^M
+  Please enter a number 1-5, where 1-4 prints out individual mss methods and 5 prints out all 5 mss methods.^M
+  For example, '1' prints out mss1 information.^M
+  0^M
+  Please enter a number 1-5, where 1-4 prints out individual mss methods and 5 prints out all 5 mss methods.^M
+  For example, '1' prints out mss1 information.^M
+  6^M
+  Please enter a number 1-5, where 1-4 prints out individual mss methods and 5 prints out all 5 mss methods.^M
+  For example, '1' prints out mss1 information.^M
+  5^H ^H5^H ^H1^H ^H2^M
+  MSS2 sum is 11 and the time elapsed is 9183^M
+  Do you want to run the program again? (y for yes and n for no)^M
+  y^M
+  ^M
+  Please enter the name of an ASCII file that contains a sorted list of integer numbers all in one line, separated by a comma: ^M
+  numbers2.txt^M
+  Please enter a number 1-5, where 1-4 prints out individual mss methods and 5 prints out all 5 mss methods.^M
+  For example, '1' prints out mss1 information.^M
+  5^M
+  MSS1 sum is 180 and the time elapsed is 104506^M
+  MSS2 sum is 180 and the time elapsed is 16378^M
+  MSS3 sum is 180 and the time elapsed is 158119^M
+  MSS4 sum is 180 and the time elapsed is 10349^M
+  Do you want to run the program again? (y for yes and n for no)^M
+  n^M
+  ^M
+  ^[]0;matthewgloriani@bec307dl10:~/comp230/projects/proj3^G^[[38;5;39mmatthewgloriani^[(B^[[m^[[38;5;15m@^[(B^[[m^[[38;5;136mbec307dl10^[(B^[[    m^[[38;5;15m ^[(B^[[m^[[38;5;2mproj3^[(B^[[m^[[38;5;15m>^[(B^[[m e^H^[[Kexit^H^[[K^H^[[K^H^[[K^H^[[K^Gexit^M
+  exit^M
+
